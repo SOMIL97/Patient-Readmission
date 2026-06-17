@@ -1,8 +1,6 @@
 # Patient-Readmission
 ## 🚀 Project Overview
-This project predicts patient readmissions and provides actionable insights for hospital management. It includes an **end-to-end workflow**:
-Python → Azure Blob Storage → MySQL → Power BI Dashboard.
-
+Hospital readmissions increase healthcare costs and impact patient outcomes. This project uses Machine Learning, SQL, Azure Cloud, and Power BI to identify patients at risk of readmission and provide actionable insights for hospital administrators.
 ---
 
 ## 🎯 Objectives
